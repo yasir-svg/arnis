@@ -1,5 +1,6 @@
 version: 2
-updates:
+updates:minecraft
+
   - package-ecosystem: "cargo"
     directory: "/"
     schedule:
